@@ -711,16 +711,6 @@ categories:
           preferences for convenience, security, and accessibility.
           Learn more about the [Security Policy](https://simplex.chat/security/).
 
-      - name: MurMur
-        url: https://murmurchat.org
-        icon: https://murmurchat.org/favicon.ico
-        openSource: true
-        github: Oleg2796996/murmur
-        description: |
-          Privacy-focused, self-hostable messenger with end-to-end encrypted messaging and voice/video calls.
-          Identity is based on a cryptographic key rather than a phone number or account database.
-          The installable PWA and Rust relay are released under the AGPL-3.0-or-later license.
-
       - name: XMPP
         url: https://xmpp.org
         icon: https://xmpp.org/apple-touch-icon.png
@@ -749,6 +739,16 @@ categories:
           client, it supports VOIP + video calling and IM + group chats.
           Note that homeservers can log IP addresses and metadata, and
           unrelayed 1:1 calls may reveal your IP to the other party.
+
+      - name: MurMur
+        url: https://murmurchat.org
+        icon: https://murmurchat.org/favicon.ico
+        openSource: true
+        github: Oleg2796996/murmur
+        description: |
+          Privacy-focused, self-hostable messenger with end-to-end encrypted messaging and voice/video calls.
+          Identity is based on a cryptographic key rather than a phone number or account database.
+          The installable PWA and Rust relay are released under the AGPL-3.0-or-later license.
 
       notableMentions:
         - name: Chat Secure
